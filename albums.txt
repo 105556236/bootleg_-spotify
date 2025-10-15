@@ -1,0 +1,166 @@
+15
+Neil Diamond
+Greatest Hits
+media/NeilDiamond.png
+2
+3
+Crackling Rose
+sounds/01-Cracklin-rose.wav
+2:54
+Soolaimon
+sounds/06-Soolaimon.wav
+4:32
+Sweet Caroline
+sounds/20-Sweet_Caroline.wav
+3:21
+Platters
+Greatest Hits
+media/ThePlatters.png
+1
+2
+Twilight Time
+sounds/01-Twilight_Time.wav
+2:47
+The Great Pretender
+sounds/10-The_Great_Pretender.wav
+2:36
+Don McClean
+American Pie
+media/DonMcClean.png
+2
+0
+Carly Simon
+No Secrets
+media/CarlySimon.png
+2
+3
+The Carter Family
+sounds/02-The_Carter_Family.wav
+3:29
+Your So Vain
+sounds/03-Youre_So_Vain.wav
+4:17
+Embrace me You Child
+sounds/06-Embrace_Me_You_Child.wav
+4:06
+The Beatles
+Abbey Road
+media/BeatlesAbbeyRoad.png
+1
+2
+Come Together
+sounds/01-Come_Together.wav
+4:20
+Something
+sounds/02-Something.wav
+3:03
+Fleetwood Mac
+Rumours
+media/FleetwoodMacRumours.png
+1
+2
+Dreams
+sounds/01-Dreams.wav
+4:17
+Go Your Own Way
+sounds/02-Go_Your_Own_Way.wav
+3:38
+Queen
+A Night at the Opera
+media/QueenNightOpera.png
+1
+2
+Bohemian Rhapsody
+sounds/01-Bohemian_Rhapsody.wav
+5:55
+You're My Best Friend
+sounds/02-Youre_My_Best_Friend.wav
+2:50
+Michael Jackson
+Thriller
+media/MichaelJacksonThriller.png
+1
+2
+Thriller
+sounds/01-Thriller.wav
+5:57
+Beat It
+sounds/02-Beat_It.wav
+4:18
+Led Zeppelin
+IV
+media/LedZeppelinIV.png
+1
+2
+Stairway to Heaven
+sounds/01-Stairway_to_Heaven.wav
+8:02
+Black Dog
+sounds/02-Black_Dog.wav
+4:55
+Pink Floyd
+The Dark Side of the Moon
+media/PinkFloydDSOTM.png
+1
+2
+Time
+sounds/01-Time.wav
+6:53
+Money
+sounds/02-Money.wav
+6:22
+Bob Dylan
+Highway 61 Revisited
+media/BobDylanHighway61.png
+1
+2
+Like a Rolling Stone
+sounds/01-Like_a_Rolling_Stone.wav
+6:13
+Desolation Row
+sounds/02-Desolation_Row.wav
+11:21
+Eagles
+Hotel California
+media/EaglesHotelCalifornia.png
+1
+2
+Hotel California
+sounds/01-Hotel_California.wav
+6:30
+New Kid in Town
+sounds/02-New_Kid_in_Town.wav
+5:04
+The Rolling Stones
+Sticky Fingers
+media/RollingStonesStickyFingers.png
+1
+2
+Brown Sugar
+sounds/01-Brown_Sugar.wav
+3:50
+Wild Horses
+sounds/02-Wild_Horses.wav
+5:43
+Prince
+Purple Rain
+media/PrincePurpleRain.png
+1
+2
+Purple Rain
+sounds/01-Purple_Rain.wav
+8:41
+When Doves Cry
+sounds/02-When_Doves_Cry.wav
+5:54
+Madonna
+Like a Virgin
+media/MadonnaLikeAVirgin.png
+1
+2
+Material Girl
+sounds/01-Material_Girl.wav
+4:00
+Like a Virgin
+sounds/02-Like_a_Virgin.wav
+3:38
